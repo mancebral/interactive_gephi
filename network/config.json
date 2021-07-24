@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Dr. Manuel Cebral"
+  },
+  "text": {
+    "more": "Human Flourishing Author Keywords Co-occurrence Network based on Scopus data collection",
+    "intro": "Human Flourishing Author Keywords Co-occurrence Network",
+    "title": "Keyword Co-occurrence Network"
+  },
+  "legend": {
+    "edgeLabel": "Co-occurrence",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Author Keywords"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Grado",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
