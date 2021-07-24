@@ -8,9 +8,9 @@
     "text": "Dr. Manuel Cebral"
   },
   "text": {
-    "more": "Human Flourishing Author Keywords Co-occurrence Network based on Scopus data collection",
-    "intro": "Human Flourishing Author Keywords Co-occurrence Network",
-    "title": "Keyword Co-occurrence Network"
+    "more": "Human Flourishing Author Keywords Co-occurrence Network extracted from Scopus data collection by Cebral-Loureda, M. on 2021",
+    "intro": "Data Mining over Scopus Database by Cebral-Loureda 20201",
+    "title": "Human Flourishing Keyword Co-occurrences"
   },
   "legend": {
     "edgeLabel": "Co-occurrence",
