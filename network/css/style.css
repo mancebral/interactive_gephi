@@ -258,6 +258,7 @@ font-weight: bold;
 
 #titletext {
 padding: 6px 0 10px 0;
+display: none;
 }
 
 #info {
