@@ -227,7 +227,7 @@ margin-bottom:20px;
 }
 
 #maintitle h1 {
-display: none;
+display: inline;
 }
 
 #mainpanel {
