@@ -339,7 +339,7 @@ user-select: none;
 	color: #fff;
 	cursor: pointer;
 	background-color: #999;
-	background-image: url('../images/sprite.png');
+	/*background-image: url('../images/sprite.png');*/
 	background-repeat: no-repeat;
 	background-position: 200px -144px;
 }
