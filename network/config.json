@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 4,
+      "labelThreshold": 3,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
@@ -43,7 +43,7 @@
       "maxEdgeSize": 15,
       "minEdgeSize": 0.2,
       "minNodeSize": 0.1,
-      "maxNodeSize": 40
+      "maxNodeSize": 35
     },
     "mouseProperties": {
       "maxRatio": 20,
