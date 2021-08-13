@@ -8,7 +8,7 @@
     "text": "Dr. Manuel Cebral"
   },
   "text": {
-    "more": "Human Flourishing Author Keywords Co-occurrence Network extracted from Scopus data collection by Cebral-Loureda, M. on 2021",
+    "more": "Human Flourishing Author Keywords Co-occurrence Network extracted from Scopus data collection by Cebral-Loureda, M. in 2021",
     "intro": "Data Mining over Scopus Database by Cebral-Loureda 2021",
     "title": "Human Flourishing Keyword Co-occurrences"
   },
@@ -33,17 +33,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 4,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 20,
+      "maxEdgeSize": 15,
       "minEdgeSize": 0.2,
       "minNodeSize": 0.1,
-      "maxNodeSize": 50
+      "maxNodeSize": 40
     },
     "mouseProperties": {
       "maxRatio": 20,
